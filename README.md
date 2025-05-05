@@ -1,5 +1,7 @@
 # IS6640 战略信息系统 - 学习资料整理 (Strategic Information Systems - Study Materials)
 
+## **notes_organized里面的东西不全**
+
 ## 已完成操作 (Completed Operations)
 
 1. **PDF讲义转换为Markdown** (PDF Lecture Notes to Markdown): 将原始PDF格式的讲义转换成了Markdown格式，便于编辑和查阅。
